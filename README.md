@@ -6,6 +6,7 @@ Replacement for Quantum Circuits - Allows wireless redstone circuits in variety 
 working for 1.9.2
 
 download latest build : http://depositfiles.com/files/flvwz9ft4
+source: https://github.com/splifcad/Quantum-Connectors
 
 
 http://dev.bukkit.org/bukkit-plugins/quantum-connectors/pages/usage/
