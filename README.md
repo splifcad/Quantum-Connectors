@@ -2,6 +2,7 @@
 Replacement for Quantum Circuits
 
 working for 1.9.2
+download latest build :  http://depositfiles.com/files/flvwz9ft4
 
 http://dev.bukkit.org/bukkit-plugins/quantum-connectors/pages/usage/
 
