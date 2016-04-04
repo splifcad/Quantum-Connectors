@@ -2,3 +2,17 @@
 Replacement for Quantum Circuits
 
 working for 1.9.2
+
+http://dev.bukkit.org/bukkit-plugins/quantum-connectors/pages/usage/
+
+    type /qc <circuit_type> (or /qc for a list of circuits)
+    Click on a sender with redstone - if you click an invalid sender, it will supply you with a list
+    Click as many receivers as you want (same as above)
+    (optional) type /qc <circuit_type> to change the next receiver you click
+    Type /qc done to complete the circuit
+    Now, whenever the sender is activated, the receiver will activate as well! 
+
+Note - to destroy a circuit, break the sender/receiver
+
+video tutorial:
+https://youtu.be/oZmk0_ouwMk
